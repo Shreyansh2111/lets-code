@@ -1,7 +1,19 @@
 
-# LET-S-CODE
+# Project description
 
-[Project Name] is a [brief description of your project]. It provides [main features or functionality].
+LETSCODE is an online coding platform just like Leetcode, hackerrank, codechef etc. which I made specifically for my college. It provides a platform for the new students(freshers) in college to start there coding journey. Also it adds a feature that faculties are able to assign their coding tests on this platform and they can also monitor the progress of students.
+
+## Technology that I used
+Javascript \
+Node.js\
+React.js\
+Express.js \
+API\
+Codemirror API's\
+Bootstrap
+
+
+
 
 ## Table of Contents
 
@@ -16,7 +28,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/souravrjpt/LET-S-CODE.git
    ```
 
 2. Navigate to the project directory:
@@ -45,9 +57,16 @@
 
 ## Features
 
-- List the main features and functionalities of your project.
-- Explain how users can benefit from using your project.
-- Provide examples or screenshots to showcase the features.
+Features of the LETSCODE project include:
+
+`Language Selection`: Users can choose from multiple programming languages, including C++, Python, and Java, using a drop-down menu.
+
+`Code Editor`: The project incorporates the CodeMirror library to provide a code editor with syntax highlighting, auto-closing brackets/tags, and line numbers for an enhanced coding experience.
+
+`Input and Output`: Users can input data in a designated section and view the output of their code execution in real-time.
+
+`Run Button`: A "RUN" button triggers the execution of the code, which results in the output being displayed in the output section.
+
 
 ## Contributing
 
